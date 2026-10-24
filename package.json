@@ -1,0 +1,11 @@
+{
+  "name": "assan-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AŞSAN tek sayfalık tasarım önizlemesi",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
